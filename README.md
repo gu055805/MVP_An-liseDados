@@ -28,7 +28,7 @@ O dataset utilizado é o **Wine Quality (Red)**, disponível publicamente no rep
 
 ## Conclusão
 
-A análise mostrou que variáveis como **teor alcoólico**, **ácido volátil** e **sulfatos** têm forte relação com a qualidade do vinho. A normalização e a redução do número de atributos com base na análise de correlação permitem preparar um dataset mais limpo e eficiente para aplicação de modelos de machine learning supervisionado (regressão).
+A análise mostrou que variáveis como 'alcohol', 'sulphates', 'citric acid', 'volatile acidity', 'density' têm forte relação com a qualidade do vinho. A normalização e a redução do número de atributos com base na análise de correlação permitem preparar um dataset mais limpo e eficiente para aplicação de modelos de machine learning supervisionado (regressão).
 
 ## Fonte dos dados
 
