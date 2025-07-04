@@ -12,13 +12,13 @@ O dataset utilizado é o **Wine Quality (Red)**, disponível publicamente no rep
 
 ## Etapas Realizadas
 
-### 🔍 Análise Exploratória (EDA)
+###  Análise Exploratória (EDA)
 - Visualização da distribuição de variáveis
 - Cálculo de estatísticas descritivas
 - Análise de correlação entre atributos
 - Identificação de padrões e outliers
 
-### ⚙️ Pré-Processamento
+### ⚙ Pré-Processamento
 - Separação entre variáveis preditoras (X) e variável alvo (y)
 - Divisão em dados de treino e teste (70/30)
 - Aplicação de normalização (MinMaxScaler)
