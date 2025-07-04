@@ -23,7 +23,7 @@ O dataset utilizado é o **Wine Quality (Red)**, disponível publicamente no rep
 - Divisão em dados de treino e teste (70/30)
 - Aplicação de normalização (MinMaxScaler)
 - Criação de versões dos dados normalizados e padronizados
-- Seleção automatizada das variáveis mais relevantes com base na correlação
+- Seleção das variáveis mais relevantes com base na correlação e F Score
 
 
 ## Conclusão
